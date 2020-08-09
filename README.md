@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/seun0297/ContosoAir/_apis/build/status/Jaboo9.ContosoAir?branchName=master)](https://dev.azure.com/seun0297/ContosoAir/_build/latest?definitionId=5&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
